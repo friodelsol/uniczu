@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# NetCDF datasets
+*.nc
+
+# Large GIS datasets
+*.tif
+*.tiff
+*.grib
+
+# Temporary files
+*.tmp
+*.log
