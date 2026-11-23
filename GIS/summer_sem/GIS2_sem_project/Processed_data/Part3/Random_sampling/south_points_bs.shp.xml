@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250525</CreaDate><CreaTime>00430900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\users\kyaw sithu\appdata\local\programs\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\ExtractMultiValuesToPoints" Date="20250525" Time="004309">ExtractMultiValuesToPoints south_points_bs "avgtemp_05_bs s_t_bs;O_avgtemp_bs s_Ot_bs" NONE</Process></lineage></DataProperties></Esri></metadata>

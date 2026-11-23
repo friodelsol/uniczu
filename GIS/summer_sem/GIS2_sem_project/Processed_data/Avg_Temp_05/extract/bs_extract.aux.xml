@@ -1,0 +1,22 @@
+<PAMDataset>
+  <SRS dataAxisToSRSAxisMapping="2,1">PROJCS["ETRS89-extended / LAEA Europe",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4258"]],PROJECTION["Lambert_Azimuthal_Equal_Area"],PARAMETER["latitude_of_center",52],PARAMETER["longitude_of_center",10],PARAMETER["false_easting",4321000],PARAMETER["false_northing",3210000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Northing",NORTH],AXIS["Easting",EAST],AUTHORITY["EPSG","3035"]]</SRS>
+  <PAMRasterBand band="1">
+    <Description>bs_extract</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>9.5</HistMin>
+        <HistMax>15.10000038146973</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|6|0|0|0|4|0|0|0|0|3|0|0|0|0|3|0|0|0|4|0|0|0|0|13|0|0|0|10|0|0|0|0|17|0|0|0|13|0|0|0|0|21|0|0|0|27|0|0|0|0|41|0|0|0|0|72|0|0|0|78|0|0|0|0|96|0|0|0|125|0|0|0|0|141|0|0|0|158|0|0|0|0|200|0|0|0|237|0|0|0|0|305|0|0|0|0|325|0|0|0|365|0|0|0|0|474|0|0|0|478|0|0|0|0|456|0|0|0|490|0|0|0|0|565|0|0|0|554|0|0|0|0|492|0|0|0|0|437|0|0|0|366|0|0|0|0|362|0|0|0|338|0|0|0|0|361|0|0|0|508|0|0|0|0|408|0|0|0|429|0|0|0|0|432|0|0|0|0|435|0|0|0|436|0|0|0|0|460|0|0|0|411|0|0|0|0|106|0|0|0|38|0|0|0|0|21|0|0|0|12|0|0|0|0|15|0|0|0|0|5</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COUNT">11357.000000</MDI>
+      <MDI key="STATISTICS_MEDIAN">nan</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

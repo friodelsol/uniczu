@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 20 December 2024 20:53:26</msg><msg code="539" type="100">ERROR 000539: ﻿  File "&lt;expression&gt;", line 1
+    sum("RATING" where "PARAMETER" = "PH" and "ID" = $feature.ID) + sum("RATING" where "PARAMETER" = "COND" and "ID" = $feature.ID) + sum("RATING" where "PARAMETER" = "O2" and "ID" = $feature.ID)
+        ^^^^^^^^^^^^^^
+﻿SyntaxError: invalid syntax. Perhaps you forgot a comma?
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at 20 December 2024 20:53:26 (Elapsed Time: 0.07 seconds)</msg></messages>

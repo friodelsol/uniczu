@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: 23 May 2025 03:02:17</msg><msg code="0" type="0">Con(((Raster(r"aspect_bs") &gt;= 225) | (Raster(r"aspect_bs")  &lt;= 135)) &amp; (Raster(r"slope_bs")  &gt;= 10), 1)</msg><msg code="0" type="3">Succeeded at 23 May 2025 03:02:19 (Elapsed Time: 1.33 seconds)</msg></messages>
